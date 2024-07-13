@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "region": "Americas",
+    "data": 290,
+    "latlng": [
+      38,
+      -97
+    ]
+  },
+  {
+    "id": 2,
+    "region": "Africa",
+    "data": 490,
+    "latlng": [
+      60,
+      100
+    ]
+  },
+  {
+    "id": 3,
+    "region": "Asia",
+    "data": 790,
+    "latlng": [
+      20,
+      77
+    ]
+  },
+  {
+    "id": 4,
+    "region": "Asia",
+    "data": 590,
+    "latlng": [
+      35,
+      105
+    ]
+  },
+  {
+    "id": 5,
+    "region": "Americas",
+    "data": 290,
+    "latlng": [
+      60,
+      -95
+    ]
+  },
+  {
+    "id": 6,
+    "region": "Oceania",
+    "data": 390,
+    "latlng": [
+      -8,
+      178
+    ]
+  },
+  {
+    "id": 7,
+    "region": "Europe",
+    "data": 390,
+    "latlng": [
+      46,
+      2
+    ]
+  }
+]
